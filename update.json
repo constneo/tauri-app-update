@@ -1,10 +1,10 @@
 {
-  "version": "0.1.2",
+  "version": "0.0.2",
   "notes": "Test version",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeUVxYTVlaVVRSzRqVXp6WmkvQm9vVENnaHJPYytOdGlrYTdxbDVuY0NyWlZmb1UxTUxnOUlKa3kzN2Y2U2IxQ2dmb3dQMXR5eHVGMmZhdFNaSy8zM3l1OXZJY3kwK0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczODAyNDY3CWZpbGU6dGF1cmktYXBwXzAuMS4yX3g2NF9lbi1VUy5tc2kuemlwCjgzQWFwSkVBT1RoR3cwK0pKd3BVY3Ywd1Zjdk5rT3FmN3lSd0RqN3dWSjMvVXZlWlFkaHA1SzNtR3IwT3hQY1FRZ3QyaWlmYnRnWENiaDdZWDVYU0RnPT0K",
-      "url": "https://github.com/constneo/tauri-app-update/releases/download/main/tauri-app_0.1.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSeUVxYTVlaVVRSzdaL1lJUTVoZllib1VWL1VKaE4zblRKMGxzNksyRVRnQ3I3VldLOFhRZ3BvNy9QMi9SamhjOSs0UmJDb0NGQjFnSDZEcFBCUDNtaWpIVjd0U2luZWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjczODA3MzM2CWZpbGU6dGF1cmktYXBwXzAuMC4yX3g2NF9lbi1VUy5tc2kuemlwCmluamIvR0x5Vyt4aElCZG94aXc4VUVZeG9pOC92aTgyQnVRVUd0ZkZIaUZ5bEV5Q3VUNnlRSFBwMjNHYXp2NGdjL3I3RlQwZDZlY3N5V1NJZ0hRVUFnPT0K",
+      "url": "https://github.com/constneo/tauri-app-update/releases/download/main/tauri-app_0.0.2_x64_en-US.msi.zip"
     }
   }
 }
