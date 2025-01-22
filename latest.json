@@ -8,8 +8,8 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDZUKzB4cm5HdVFmcW1MOHR5YURsbTMzSjVYcWhneW9PY2FORTErQ1gwaEhpWDVRR2o3TkMvSW5UL1h3M0VFREovbnNjaml6RDVTZHpZSHFWQ2x4V01qdG9UYXJKcEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTY3NTg4CWZpbGU6QUlPXzAuMS4xX3g2NF96aC1DTi5tc2kKMGREL0VOcHVMSlVGTHcxV0ZnUG9QNmppeFdaSGpxSXQ5S0JRWGVUdndmSVZ4M0d6cGgzbkliSDJuamx3dFlic1FuR0FMemQzc3FPQnV2R083ZjJnRGc9PQo=",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDZUKzB4cm5HdVYyVXYxbEZ0OFpQOGJFWEZzeTArS01LeDl1djduK2xXMTBZZEswajJndkxzUHJiNkEvaTFTcDNYc2FpVGpFNkhhdEh1NXc3d2lIMTk3b2tYWTJuL0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTY4NDMyCWZpbGU6QUlPXzAuMS4yX3g2NF96aC1DTi5tc2kKbWY3cHJIa2hZc0JTUEduMFNxUngvdHpzNGVoZys0VklKTk9xQmtuYTJ5MEt2RWRvbkNHK2dad2RGVjg0Y3grNDFUZGFWQkhqVlR3SStQOVJRbkRuQ0E9PQo=",
+      "url": "https://github.com/constneo/tauri-app-update/releases/download/aio/AIO_0.1.2_x64_zh-CN.msi"
     },
     "darwin-x86_64": {
       "signature": "",
