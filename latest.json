@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDZUKzB4cm5HdWY3eVdsTzNhekJzWHAzQzM5bVcvS1B6bDRpcmlENFpQSzVNbThhdkRCVDNrVTM3K0ZJTDRqeFc0K3F1R3FONld6KzNUVGFUbFFVZHN0UWNteWN1OXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTY1MzMxCWZpbGU6QUlPXzAuMS4xX3g2NF96aC1DTi5tc2kKQld2QmI4QjZza1c0TWMwK1R0Q1d0UFdIcEd3V2lHU1RhYW5WKzI5czY3OU1FTlJtbW1oZ3Y0aGI2Y2thN1hsdUdpSWlYbWVrbWZhbEpHaE9GR0ZIRGc9PQo=",
-      "url": "/release/AIO_0.1.1_x64_zh-CN.msi"
+      "url": "https://github.com/constneo/tauri-app-update/releases/download/untagged-296d6566f34122957310/AIO_0.1.1_x64_zh-CN.msi"
     }
   }
 }
