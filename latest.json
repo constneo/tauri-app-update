@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "notes": "Test aio updater.",
   "platforms": {
     "windows-x86_64": {
