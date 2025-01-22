@@ -3,8 +3,8 @@
   "notes": "Test aio updater.",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDZUKzB4cm5HdVpwVUpSQXo0Rm10N01pRXFEbHZCbWU5Qk0yTUpoWXkySnV3TzBQKzJFRDJRMjBCVW0zTGV4cUlHRFBPd0pNTWIvZEZQS2tucUZPZ01PZWk0aTBZZHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTY5ODI5CWZpbGU6QUlPXzAuMS4zX3g2NF96aC1DTi5tc2kKZmNjVXNSZCtkVUNnbkF6dmxZRCtjWnBnY0xkQytNOExtSXFHN1BOVWk1VmdxT2pFdkdqQWNadys4and1TXFYc01jVkk2ZzVFRkJ4cXpBYWMvWkMwQXc9PQo=",
-      "url": "https://github.com/constneo/tauri-app-update/releases/download/aio-v0.1.3/AIO_0.1.3_x64_zh-CN.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDZUKzB4cm5HdVZ2SWpPWCtuU1BqemFxS2R4N25vd2RxeVBRSitiWjRqSE1KK09JZHZhTWtjdVJqZDVhOXl3ak9BeUsxcTFRSnVXemlxZ0dnMDdyTGc5N0pNUlYzcHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTcxODA0CWZpbGU6QUlPXzAuMS40X3g2NF96aC1DTi5tc2kKdW04MVRkU29yay9UMDRuRnJMaWVXLytydGJUbnBJcjA1KzdjODlkcjZVY0wyVlE0SzB1aUtMWGEzZmRDdUtxVmZMYmZiQ3pjVmdKR2szVXZyUTZZQnc9PQo=",
+      "url": "https://github.com/constneo/tauri-app-update/releases/download/aio-v0.1.4/AIO_0.1.4_x64_zh-CN.msi"
     }
   }
 }
