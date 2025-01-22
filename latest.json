@@ -3,17 +3,9 @@
   "notes": "Test aio updater.",
   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEI5QzZCOUM2QjQzRkU5MDMKUldRRDZUKzB4cm5HdVk5cVFNN1ozc3M2UmlwRVdRNFI1M2dqVEJGanRTUVRORWdPWWsxeW4rdTYK",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "",
-      "url": ""
-    },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRDZUKzB4cm5HdVpwVUpSQXo0Rm10N01pRXFEbHZCbWU5Qk0yTUpoWXkySnV3TzBQKzJFRDJRMjBCVW0zTGV4cUlHRFBPd0pNTWIvZEZQS2tucUZPZ01PZWk0aTBZZHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3NTY5ODI5CWZpbGU6QUlPXzAuMS4zX3g2NF96aC1DTi5tc2kKZmNjVXNSZCtkVUNnbkF6dmxZRCtjWnBnY0xkQytNOExtSXFHN1BOVWk1VmdxT2pFdkdqQWNadys4and1TXFYc01jVkk2ZzVFRkJ4cXpBYWMvWkMwQXc9PQo=",
       "url": "https://github.com/constneo/tauri-app-update/releases/download/aio-v0.1.3/AIO_0.1.3_x64_zh-CN.msi"
-    },
-    "darwin-x86_64": {
-      "signature": "",
-      "url": ""
     }
   }
 }
